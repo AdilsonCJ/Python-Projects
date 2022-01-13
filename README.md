@@ -5,3 +5,16 @@ Repositório para os Projetos envolvendo Python em atividades de Data Analytics 
   
   . Projetos :
       # 01 - Gestão de Carteira de Criptoativos 
+        .Objetivo : Acompanhar o resultado dos trades de uma criptomoeda específica, acompanhar o andamento dos ganhos/perdas de uma carteira de ativos, salvar em um Excel a               cotação das moedas selecionadas pelo usuário para análises futuras.
+        
+      # 02 - TBD
+        .Objetivo :
+        
+      # 03 - TBD
+        .Objetivo :
+        
+      # 04 - TBD
+        .Objetivo :
+        
+      # 05 - TBD
+        .Objetivo : 
